@@ -14,4 +14,3 @@ var playlist = {
   function removeFromPlaylist(playlist, Kanye){
      return {}
   }
-   delete playlist.Kanye;
