@@ -12,7 +12,6 @@ var playlist = {
   Kanye: "Gold Digger"
 };
   function removeFromPlaylist(playlist, Kanye){
+     return {}
   }
    delete playlist.Kanye;
-   return {}
-    return ({Kanye: "Gold Digger"})
