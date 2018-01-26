@@ -11,4 +11,5 @@ function updatePlaylist(playlist, artistName, songTitle){
   function removePlaylist(playlist, artistName, songTitle){
     var playlist = {artistName: "Kanye", songTitle: "Gold Digger"};
     delete playlist.artistName;
+    delete playlist.songTitle;
   }
