@@ -14,4 +14,4 @@ var playlist = {
   function removeFromPlaylist(playlist, artistName){
    return {}
   }
-   delete Kanye.artistName;
+   delete playlist.artistName;
