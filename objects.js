@@ -10,6 +10,5 @@ function updatePlaylist(playlist, artistName, songTitle){
   Object.assign({}, playlist, {songTitle: "Here's to the State of Mississippi"})
   function removeFromPlaylist(playlist, artistName){
     var Kanye = {playlist: "Gold Digger", artistName: "Kanye"};
-    delete playlist.artistName;
-    delete playlist.songTitle;
+    delete Kanye.artistName;
   }
