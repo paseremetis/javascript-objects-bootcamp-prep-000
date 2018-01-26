@@ -15,3 +15,4 @@ var playlist = {
   }
    delete playlist.Kanye;
    return {}
+    return ({Kanye: "Gold Digger"})
