@@ -3,7 +3,7 @@ var playlist = {
  songTitle: "Here's to the State of Mississippi"
 };
 function updatePlaylist(playlist, artistName, songTitle){
-  return {playlist ("Phil Ochs")}
+  return { "Phil Ochs": }
 }
  Object.assign({}, playlist, {artistName: "Phil Ochs"})
 
